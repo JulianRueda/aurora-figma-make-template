@@ -1,0 +1,12 @@
+{
+  "title": "Aurora · Plantilla Editorial-Trust",
+  "description": "Plantilla base con el Sistema de Diseño y UX Aurora para Figma Make y Antigravity.",
+  "language": "es",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
